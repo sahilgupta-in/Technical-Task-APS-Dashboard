@@ -19,7 +19,7 @@ Deployment: Netlify / Vercel
 
 Clone the repository
 
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/sahilgupta-in/Technical-Task-APS-Dashboard.git
 
 Navigate to the project folder
 
@@ -45,3 +45,4 @@ src/
 📄 License
 
 This project is open source and available under the MIT License.
+
